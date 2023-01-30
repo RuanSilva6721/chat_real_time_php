@@ -1,0 +1,22 @@
+#message{
+    font-weight: bold;
+    width: 90%;
+    text-align: center;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+form{
+    margin-top: 40px;
+}
+label{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 10px;
+}
+.form-control{
+border-radius: 10px;
+width: 50%;
+}
+button{
+    margin-top: 10px;
+}
